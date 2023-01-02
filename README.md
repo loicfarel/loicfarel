@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @loicfarel
-- 👀 Je suis interessé par la programmation
+- 👋 Salut, je @loicfarel
+- 👀 Je suis passioné par la programmation
 - 🌱Je maîtrisse les technologies comme Vue JS, Nuxt JS, Laravel.. Et j'apprend actuellement React JS
-- 📫 Mon site : loicfarel.netlify.app
+- 📫 Mon site : https://loicfarel.netlify.app
 
 <!---
 loicfarel/loicfarel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
