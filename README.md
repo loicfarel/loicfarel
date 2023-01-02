@@ -1,4 +1,4 @@
-- 👋 Salut, je @loicfarel
+- 👋 Salut, je suis @loicfarel
 - 👀 Je suis passioné par la programmation
 - 🌱Je maîtrisse les technologies comme Vue JS, Nuxt JS, Laravel.. Et j'apprend actuellement React JS
 - 📫 Mon site : https://loicfarel.netlify.app
