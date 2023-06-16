@@ -1,5 +1,5 @@
 - 👋 Salut, je suis @loicfarel
-- 🌱Je maîtrisse les technologies comme Vue JS, React JS, Laravel..
+- 🌱Je maîtrisse les technologies comme Vue JS, Nest JS,...
 - 📫 Mon site : https://loicfarel.netlify.app
 
 <!---
