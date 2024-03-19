@@ -1,6 +1,6 @@
-- 👋 Salut, je suis @loicfarel
-- 🌱Je maîtrisse les technologies comme Vue JS, Nest JS,...
-- 📫 Mon site : https://loicfarel.netlify.app
+- 👋 Hi, I'm @loicfarel
+- 🌱I specialize in technologies such as Vue JS, Nuxt JS, Tailwind CSS...
+- 📫 My website: https://loicfarel.netlify.app
 
 <!---
 loicfarel/loicfarel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
